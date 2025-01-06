@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a discord bot<br>🌱 I’m currently learning Data science<br>
+🌱 I’m currently learning Data science<br>
 
 
 ## 🌐 Socials:
